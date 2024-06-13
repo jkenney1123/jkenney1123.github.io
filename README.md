@@ -1,17 +1,17 @@
 # Data Scientist / Statistics
 
 ### Education
-Statistics, M.S.
-Data Science, B.S.
-Mathematics, B.S.
-
+- M.S., Statistics | The University of Texas at Dallas (_May 2024)
+- B.S., Data Science | The University of Texas at Dallas (_December 2021)
+- B.S., Mathematics | The University of Texas at Dallas (_December 2021)
+  
 ### Work Experience
-Teaching Assistant @ The University of Texas at Dallas
+**Teaching Assistant @ The University of Texas at Dallas (_August 2022 - January 2024)**
 - As a Teaching Assistant for Integral Calculus, my responsibilities included teaching two Problem Sections per week to a class of approximately 25 students each. Additionally, I conducted an extra grading class each semester, held regular Office Hours, and assisted with Grading. 
 - 20 hours per week
 
 ### Projects
-Bayesian Change Point Analysis of Real GDP Growth  —  Bayesian Data Analysis  —  Fall 2023
+Bayesian Change Point Analysis of Real GDP Growth |  Bayesian Data Analysis (_Fall 2023)
 -	Researched the methods of Time Varying Parameter (TVP) models and Product Partition Models on Real GDP growth of eight countries to study when changes occurred in growth compared to known changes in the GDP in each country.
 -	Skills Used: R, R Markdown, bcp, ggplot2, TVP, Time Series, Bayesian, Change Point, NIPS Style Report
 
