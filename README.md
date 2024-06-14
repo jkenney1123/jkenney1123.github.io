@@ -16,7 +16,7 @@
 ***Hessian locally linear embedding (HLLE)***  —  High Dimensional Data Analysis  —  Spring 2024
 - HLLE is a Dimension Reduction (DR) technique that preserves the intrinsic High Dimensional Geometric information in a lower Dimension space. For this project I was in a team of three with the task of giving a lecture on the method to the class. For my part I coded the algorithm and compared the HLLE to other DR techniques such as PCA, t-SNE, Diffusion Maps. 
 - I applied these Dimension Reduction techniques to analyze the high-dimensional data for chest X-rays of pneumonia, Covid, and normal. Unfortunately HLLE did not perform well on this data, but using Isomap and PCA, I achieved a clear 2-dimensional representation with three well-separated clusters facilitating precise classification. This experience demonstrates my ability to transform complex data into actionable insights through advanced Dimension Reduction techniques. (Slide 35)
-- ([Project/Lecture Slides](https://github.com/jkenney1123/jkenney1123.github.io/blob/main/Projects/High_Dimensional_Data_Analysis_HLLE_Slides.pdf))My contribution is from slide 28 - 44
+- ([Project/Lecture Slides](https://github.com/jkenney1123/jkenney1123.github.io/blob/main/Projects/High_Dimensional_Data_Analysis_HLLE_Slides.pdf)) My contributions are from slide 28 - 44.
 
 ***Bayesian Change Point Analysis of Real GDP Growth***   —  Bayesian Data Analysis  —  Fall 2023
 -	Researched the methods of Time Varying Parameter (TVP) models and Product Partition Models on Real GDP growth of eight countries to study when changes occurred in growth compared to known changes in the GDP in each country.
