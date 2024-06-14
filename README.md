@@ -15,9 +15,8 @@
 ### Projects
 ***Hessian locally linear embedding (HLLE)***  —  High Dimensional Data Analysis  —  Spring 2024
 - HLLE is a Dimension Reduction (DR) technique that preserves the intrinsic High Dimensional Geometric information in a lower Dimension space. For this project I was in a team of three with the task of giving a lecture on the method to the class. For my part I coded the algorithm and compared the HLLE to other DR techniques such as PCA, t-SNE, Diffusion Maps. 
-- I applied these Dimension Reduction techniques to analyze the high-dimensional data for chest X-rays of pneumonia, Covid, and normal. Unfortunately HLLE did not perform well on this data, but using Isomap and PCA, I achieved a clear 2-dimensional representation with three well-separated clusters facilitating precise classification. This experience demonstrates my ability to transform complex data into actionable insights through advanced Dimension Reduction techniques.
+- I applied these Dimension Reduction techniques to analyze the high-dimensional data for chest X-rays of pneumonia, Covid, and normal. Unfortunately HLLE did not perform well on this data, but using Isomap and PCA, I achieved a clear 2-dimensional representation with three well-separated clusters facilitating precise classification. This experience demonstrates my ability to transform complex data into actionable insights through advanced Dimension Reduction techniques. (Slide 35)
 - ([Project/Lecture Slides](https://github.com/jkenney1123/jkenney1123.github.io/blob/main/Projects/High_Dimensional_Data_Analysis_HLLE_Slides.pdf))My contribution is from slide 28 - 44
-
 
 ***Bayesian Change Point Analysis of Real GDP Growth***   —  Bayesian Data Analysis  —  Fall 2023
 -	Researched the methods of Time Varying Parameter (TVP) models and Product Partition Models on Real GDP growth of eight countries to study when changes occurred in growth compared to known changes in the GDP in each country.
@@ -29,12 +28,11 @@
 - Skills Used: R, Rcpp, RcppArmadillo, Coordinate Descent, Huber Loss (Robust Regression), R Journal Style Report
 - ([Project Report](https://github.com/jkenney1123/jkenney1123.github.io/blob/cbe567d125afff55ca4e00d334f583d6b3c328ed/Projects/Huber_Regression.pdf))
 
-***Forecasting Crimes in Dallas using actual DPD Data*** | Capstone Project  |  Fall 2021
+***Forecasting Crimes in Dallas using actual DPD Data***  —  Capstone Project  —  Fall 2021
 - Created a penalized sparse VAR model to forecast reported crimes a week in advance with a team of 4 members to provide guidance for the Dallas Police Department to better allocate resources for crime prevention.
 - Skills Used: R, R Markdown, Sparse VAR, VAR, AR (1), Time Series, ggplot2
 
-***Image Classification using CNN***
--  Comp Methods for Data Scientists  —  Fall 2021
+***Image Classification using CNN***  —  Comp Methods for Data Scientists  —  Fall 2021
 - Classified chest x-ray images as either Normal or containing Pneumonia using a convolution neural network (CNN) with a 90.2% accuracy of correct classification. This model could be used as a supplemental tool for doctors to correctly identify x-rays that may need closer inspection to determine the patients’ health status.
 - Skills Used: Python, TensorFlow, Keras, Matplotlib, CNN, transfer learning/fine tuning 
 
