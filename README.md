@@ -36,7 +36,6 @@
 - Classified chest x-ray images as either Normal or containing Pneumonia using a convolution neural network (CNN) with a 90.2% accuracy of correct classification. This model could be used as a supplemental tool for doctors to correctly identify x-rays that may need closer inspection to determine the patients’ health status.
 - Skills Used: Python, TensorFlow, Keras, Matplotlib, CNN, transfer learning/fine tuning 
 
-<a href="https://github.com/jkenney1123/jkenney1123.github.io/blob/cbe567d125afff55ca4e00d334f583d6b3c328ed/Projects/Bayesian_Change_Point_Analysis.pdf">Link Text</a>
 ### Professional Memberships
 **Member of the American Statistical Association (_September 2024 - Present_)**
 - Symposium on Data Science and Statistics (SDSS) Conference (_June 4-7 2024_)
