@@ -4,8 +4,8 @@
 
 ### Education
 - M.S., Statistics | The University of Texas at Dallas (_May 2024_)
-- B.S., Data Science | The University of Texas at Dallas (_December 2021_)
-- B.S., Mathematics | The University of Texas at Dallas (_December 2021_)
+- B.S., Data Science | The University of Texas at Dallas (_Dec 2021_)
+- B.S., Mathematics | The University of Texas at Dallas (_Dec 2021_)
   
 ### Work Experience
 **Teaching Assistant @ The University of Texas at Dallas (_August 2022 - January 2024_)**
