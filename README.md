@@ -29,7 +29,8 @@
 - ([Project Report](https://github.com/jkenney1123/jkenney1123.github.io/blob/cbe567d125afff55ca4e00d334f583d6b3c328ed/Projects/Huber_Regression.pdf))
 
 ***Forecasting Crimes in Dallas using actual DPD Data***  —  Capstone Project  —  Fall 2021
-- Created a penalized sparse VAR model to forecast reported crimes a week in advance with a team of 4 members to provide guidance for the Dallas Police Department to better allocate resources for crime prevention.
+- Implemented a penalized sparse VAR model to forecast reported crimes a week in advance with a team of 4 members to provide guidance for the Dallas Police Department to better allocate resources for crime prevention.
+- I further introduced my own model evaluation method to compare the results from 3 different datasets.
 - Skills Used: R, R Markdown, Sparse VAR, VAR, AR (1), Time Series, ggplot2
 
 ***Image Classification using CNN***  —  Comp Methods for Data Scientists  —  Fall 2021
