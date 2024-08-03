@@ -1,6 +1,14 @@
 title: John Kenney
 #logo: /assets/img/headshot_circle.png
-linkedin_username: jkenney1123
+#linkedin_username: jkenney1123
+platforms:
+  - name: GitHub
+    icon: <i class="fa-brands fa-github"></i>
+    link: https://github.com/jkenney1123
+  - name: LinkedIn
+    icon: <i class="fa-brands fa-linkedin"></i>
+    link: https://www.linkedin.com/in/jkenney1123
+  - ...
 description: I am an eager learner and team player that seeks to work on difficult and complex problems in a Data Science/Statistics position. Experienced in statistical methodologies including Machine Learning, Time Series, Regression, Classification, and Applied Bayesian Estimation.
 #show_downloads: true
 theme: jekyll-theme-minimal
