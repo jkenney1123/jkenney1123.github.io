@@ -40,6 +40,6 @@
 ### Professional Memberships
 **Member of the American Statistical Association (_September 2023 - Present_)**
 - Symposium on Data Science and Statistics (SDSS) Conference (_June 4-7 2024_)
-  - Attended full course workshop in a PyMC for Bayesian Data Analysis using Python, PyMC, Pytorch, statsmodels, SciPy
+  - Attended full course workshop in PyMC for Bayesian Data Analysis using Python, PyMC, Pytorch, statsmodels, SciPy
 - Attended Traveling Short Course on Casual Inference in R
 - Attended Statistical talks/Seminars in my ASA North Texas chapter
