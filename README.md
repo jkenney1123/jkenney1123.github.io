@@ -38,7 +38,7 @@
 - Skills Used: Python, TensorFlow, Keras, Matplotlib, CNN, transfer learning/fine tuning 
 
 ### Professional Memberships
-**Member of the American Statistical Association (_September 2024 - Present_)**
+**Member of the American Statistical Association (_September 2023 - Present_)**
 - Symposium on Data Science and Statistics (SDSS) Conference (_June 4-7 2024_)
   - Attended full course workshop in a PyMC for Bayesian Data Analysis using Python, PyMC, Pytorch, statsmodels, SciPy
 - Attended Traveling Short Course on Casual Inference in R
