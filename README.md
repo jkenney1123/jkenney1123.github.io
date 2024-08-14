@@ -21,7 +21,6 @@
 ***Bayesian Change Point Analysis of Real GDP Growth***   —  Bayesian Data Analysis  —  Fall 2023
 -	Researched the methods of Time Varying Parameter (TVP) models and Product Partition Models on Real GDP growth of eight countries to study when changes occurred in growth compared to known changes in the GDP in each country.
 -	Skills Used: R, R Markdown, bcp, ggplot2, TVP, Time Series, Bayesian, Change Point, NIPS Style Report
--	<embed src="https://github.com/jkenney1123/jkenney1123.github.io/blob/cbe567d125afff55ca4e00d334f583d6b3c328ed/Projects/Bayesian_Change_Point_Analysis.pdf" type="application/pdf" />
 - ([Project Report](https://github.com/jkenney1123/jkenney1123.github.io/blob/cbe567d125afff55ca4e00d334f583d6b3c328ed/Projects/Bayesian_Change_Point_Analysis.pdf))
 
 ***HuberReg: Huber and Huber Lasso Regression via Coordinate Descent***  —  Num Lin Algebra & Stat Comp  —  Fall 2023
