@@ -40,6 +40,7 @@
 
 ### Professional Memberships
 **Member of the American Statistical Association (_September 2023 - Present_)**
+- Joint Statistical Meetings (JSM) 2024 in Portland, Oregon (_August 3-8 2024_)
 - Symposium on Data Science and Statistics (SDSS) Conference (_June 4-7 2024_)
   - Attended full course workshop in PyMC for Bayesian Data Analysis using Python, PyMC, Pytorch, statsmodels, SciPy
 - Attended Traveling Short Course on Casual Inference in R
