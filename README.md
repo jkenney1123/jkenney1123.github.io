@@ -31,7 +31,7 @@
 ***Forecasting Crimes in Dallas using actual DPD Data***  —  Capstone Project  —  Fall 2021
 - Implemented a penalized sparse VAR model to forecast reported crimes a week in advance with a team of 4 members to provide guidance for the Dallas Police Department to better allocate resources for crime prevention.
 - I further introduced my own model evaluation method to compare the results from 3 different datasets.
-- Skills Used: R, R Markdown, Sparse VAR, VAR, AR (1), Time Series, ggplot2
+- Skills Used: R, R Markdown, Git, GitHub, Sparse VAR, VAR, AR (1), Time Series, ggplot2
 - ([Project Repository](https://github.com/jkenney1123/Forecasting-Crimes-in-Dallas-using-actual-DPD-Data/tree/main)),([My Code Contribution Markdown File](https://github.com/jkenney1123/Forecasting-Crimes-in-Dallas-using-actual-DPD-Data/blob/main/Code/codeall.md)),([Project Presentation](https://github.com/jkenney1123/Forecasting-Crimes-in-Dallas-using-actual-DPD-Data/blob/main/Final%20Report%20and%20Presentation/Final%20Presentation%20Dallas%20Crime%20Trends%20Forecasting%20.pdf)),([Project Report](https://github.com/jkenney1123/Forecasting-Crimes-in-Dallas-using-actual-DPD-Data/blob/main/Final%20Report%20and%20Presentation/FINAL_Report_STAT_4475.pdf))
 
 ***Image Classification using CNN***  —  Comp Methods for Data Scientists  —  Fall 2021
