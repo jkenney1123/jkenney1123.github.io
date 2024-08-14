@@ -1,4 +1,4 @@
-# Data Scientist / Statistics
+# Data Scientist / Statistician
 
 #### Technical Skills: R, Python, SAS, Spark, C++, Matlab, Java, SQL, Hadoop
 
