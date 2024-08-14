@@ -1,6 +1,6 @@
 # Data Scientist / Statistician
 
-#### Technical Skills: R, Python, SAS, Spark, C++, Matlab, Java, SQL, Hadoop
+#### Technical Skills: R, Python, SAS, SQL, Git, Spark, C++, Matlab, Java, Hadoop
 
 ### Education
 - M.S., Statistics | The University of Texas at Dallas (_May 2024_)
